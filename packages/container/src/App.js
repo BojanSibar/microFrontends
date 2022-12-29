@@ -5,7 +5,7 @@ export default () => {
   return (
     <>
       <h1>
-        Hi there from container
+        Hi there from container!
         <hr />
         <div>
           <MarketingApp />
